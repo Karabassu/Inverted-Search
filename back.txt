@@ -1,0 +1,8 @@
+#0;apc;1;f1.txt;1;#
+#0;are;1;f1.txt;1;#
+#7;Hi;1;f2.txt;1;#
+#7;how;1;f2.txt;1;#
+#7;hello;1;f1.txt;1;#
+#7;hi;2;f1.txt;1;#;f2.txt;2;#
+#10;karabassu;1;f1.txt;1;#
+#18;sangur;1;f2.txt;1;#
